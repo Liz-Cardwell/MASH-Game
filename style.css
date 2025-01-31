@@ -14,6 +14,7 @@ body {
 
 /* Heading Styles */
 h1 {
+  font-family: "Walter Turncoat", serif;
   font-size: 80px;
   color: ##efeee9;
   text-align: center;
