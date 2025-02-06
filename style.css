@@ -64,14 +64,14 @@ h1 {
 }
 
 .choice-bucket input {
-  border: 12;
+  border: 12px;
   border-radius: 6px;
   color: #090a0e;
   font-size: 20px;
   margin: 15px 4%;
   outline: 0;
   padding: 16px 0;
-  text-indent: 0px;
+  text-indent: 12px;
   width: 92%;  
 }
 
